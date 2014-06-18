@@ -1,0 +1,127 @@
+2014-06-15 |2:48:49| ('10.0.0.2', 49306) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |2:49:19| ('10.0.0.2', 49307) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |2:50:23| ('10.0.0.2', 49308) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:2:29| ('10.0.0.2', 49309) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:2:57| ('10.0.0.2', 49310) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:4:57| ('10.0.0.2', 49311) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:6:21| ('10.0.0.2', 49312) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:7:3| ('10.0.0.2', 49313) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:8:14| ('10.0.0.2', 49314) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:9:42| ('10.0.0.2', 49315) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:11:20| ('10.0.0.2', 49316) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:11:46| ('10.0.0.2', 49317) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:26:58| ('10.0.0.2', 49321) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:26:58| ('10.0.0.2', 49321) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:27:5| ('10.0.0.2', 49321) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:27:8| ('10.0.0.2', 49321) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:27:13| ('10.0.0.2', 49321) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:27:16| ('10.0.0.2', 49321) | Action = login. (rt) | Resultat = error login
+2014-06-15 |3:27:19| ('10.0.0.2', 49321) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:27:27| ('10.0.0.2', 49321) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:28:4| ('10.0.0.2', 49322) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:28:4| ('10.0.0.2', 49322) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:28:9| ('10.0.0.2', 49322) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:28:40| ('10.0.0.2', 49322) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:29:37| ('10.0.0.2', 49323) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:30:47| ('10.0.0.2', 49324) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:31:36| ('10.0.0.2', 49325) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:33:28| ('10.0.0.2', 49326) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:34:12| ('10.0.0.2', 49327) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:35:21| ('10.0.0.2', 49328) | Action = Black_list_test. '10.0.0.2' | Resultat = unauthorized
+2014-06-15 |3:36:15| ('10.0.0.2', 49329) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:36:15| ('10.0.0.2', 49329) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:36:39| ('10.0.0.2', 49329) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:36:43| ('10.0.0.2', 49329) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:37:49| ('10.0.0.2', 49330) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:37:49| ('10.0.0.2', 49330) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:38:38| ('10.0.0.2', 49331) | Action = Black_list_test. '10.0.0.2' | Resultat = unauthorized
+2014-06-15 |3:38:55| ('10.0.0.2', 49332) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:38:55| ('10.0.0.2', 49332) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:38:59| ('10.0.0.2', 49332) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:39:4| ('10.0.0.2', 49332) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:39:13| ('10.0.0.2', 49332) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:39:30| ('10.0.0.2', 49332) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:39:39| ('10.0.0.2', 49332) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:39:44| ('10.0.0.2', 49332) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:39:48| ('10.0.0.2', 49332) | Action = login. (rt) | Resultat = error login
+2014-06-15 |3:41:1| ('10.0.0.2', 49333) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:41:1| ('10.0.0.2', 49333) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:41:8| ('10.0.0.2', 49333) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:41:13| ('10.0.0.2', 49333) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:41:18| ('10.0.0.2', 49333) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:41:24| ('10.0.0.2', 49333) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:41:27| ('10.0.0.2', 49333) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:41:33| ('10.0.0.2', 49333) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:41:38| ('10.0.0.2', 49333) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:41:43| ('10.0.0.2', 49333) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:43:27| ('10.0.0.2', 49334) | Action = Black_list_test. '10.0.0.2' | Resultat = unauthorized
+2014-06-15 |3:43:43| ('10.0.0.2', 49335) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:44:6| ('10.0.0.2', 49336) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:44:6| ('10.0.0.2', 49336) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:44:10| ('10.0.0.2', 49336) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:44:13| ('10.0.0.2', 49336) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:44:17| ('10.0.0.2', 49336) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:44:20| ('10.0.0.2', 49336) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:44:24| ('10.0.0.2', 49336) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:44:28| ('10.0.0.2', 49336) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:46:24| ('10.0.0.2', 49337) | Action = Black_list_test. '10.0.0.2' | Resultat = unauthorized
+2014-06-15 |3:46:40| ('10.0.0.2', 49338) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:47:32| ('10.0.0.2', 49339) | Action = Black_list_test. '10.0.0.2' | Resultat = authorized
+2014-06-15 |3:47:32| ('10.0.0.2', 49339) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:47:33| ('10.0.0.2', 49339) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:47:34| ('10.0.0.2', 49339) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:47:34| ('10.0.0.2', 49339) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:47:35| ('10.0.0.2', 49339) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:47:36| ('10.0.0.2', 49339) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |3:47:36| ('10.0.0.2', 49339) | Action = login. (ty) | Resultat = nomatch
+2014-06-15 |23:20:25| ('127.0.0.1', 22454) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-15 |23:21:31| ('127.0.0.1', 22467) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-15 |23:21:31| ('127.0.0.1', 22467) | Action = login. (hiru,A) | Resultat = match
+2014-06-15 |23:22:6| ('127.0.0.1', 22467) | Action = deconnexion. (hiru)
+2014-06-15 |23:23:12| ('127.0.0.1', 22518) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-15 |23:23:13| ('127.0.0.1', 22518) | Action = login. (hiru,A) | Resultat = match
+2014-06-15 |23:24:39| ('127.0.0.1', 22518) | Action = deconnexion. (hiru)
+2014-06-15 |23:25:34| ('127.0.0.1', 22549) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-15 |23:25:35| ('127.0.0.1', 22549) | Action = login. (hiru,A) | Resultat = match
+2014-06-15 |23:35:0| ('127.0.0.1', 22652) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-15 |23:35:1| ('127.0.0.1', 22652) | Action = login. (hiru,A) | Resultat = nomatch
+2014-06-15 |23:35:10| ('127.0.0.1', 22652) | Action = login. (hiru,A) | Resultat = nomatch
+2014-06-15 |23:35:18| ('127.0.0.1', 22652) | Action = login. (hiru,A) | Resultat = match
+2014-06-15 |23:35:32| ('127.0.0.1', 22652) | Action = deconnexion. (hiru)
+2014-06-15 |23:37:19| ('127.0.0.1', 22675) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-15 |23:37:20| ('127.0.0.1', 22675) | Action = login. (hiru,A) | Resultat = match
+2014-06-15 |23:37:31| ('127.0.0.1', 22675) | Action = deconnexion. (hiru)
+2014-06-15 |23:43:45| ('127.0.0.1', 22737) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-15 |23:43:46| ('127.0.0.1', 22737) | Action = login. (hiru,A) | Resultat = match
+2014-06-15 |23:46:48| ('127.0.0.1', 22761) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-15 |23:46:49| ('127.0.0.1', 22761) | Action = login. (hiru,A) | Resultat = match
+2014-06-15 |23:48:3| ('127.0.0.1', 22792) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-15 |23:48:4| ('127.0.0.1', 22792) | Action = login. (hiru,A) | Resultat = match
+2014-06-15 |23:49:31| ('127.0.0.1', 22818) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-15 |23:49:32| ('127.0.0.1', 22818) | Action = login. (hiru,A) | Resultat = match
+2014-06-15 |23:54:5| ('127.0.0.1', 22898) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-15 |23:54:6| ('127.0.0.1', 22898) | Action = login. (hiru,A) | Resultat = match
+2014-06-15 |23:54:25| ('127.0.0.1', 22898) | Action = deconnexion. (hiru)
+2014-06-15 |23:55:11| ('127.0.0.1', 22915) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-15 |23:55:11| ('127.0.0.1', 22915) | Action = login. (hiru,A) | Resultat = match
+2014-06-15 |23:58:1| ('127.0.0.1', 22944) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-15 |23:58:2| ('127.0.0.1', 22944) | Action = login. (hiru,A) | Resultat = match
+2014-06-15 |23:58:42| ('127.0.0.1', 22944) | Action = deconnexion. (hiru)
+2014-06-16 |0:0:20| ('127.0.0.1', 22982) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-16 |0:0:21| ('127.0.0.1', 22982) | Action = login. (hiru,A) | Resultat = match
+2014-06-16 |0:1:58| ('127.0.0.1', 22982) | Action = deconnexion. (hiru)
+2014-06-16 |0:5:37| ('127.0.0.1', 23456) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-16 |0:5:38| ('127.0.0.1', 23456) | Action = login. (hiru,A) | Resultat = match
+2014-06-16 |0:9:17| ('127.0.0.1', 23531) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-16 |0:9:18| ('127.0.0.1', 23531) | Action = login. (hiru,A) | Resultat = match
+2014-06-16 |0:9:30| ('127.0.0.1', 23531) | Action = deconnexion. (hiru)
+2014-06-16 |0:9:42| ('127.0.0.1', 23557) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-16 |0:9:43| ('127.0.0.1', 23557) | Action = login. (user,U) | Resultat = match
+2014-06-16 |0:10:0| ('127.0.0.1', 23557) | Action = deconnexion. (user)
+2014-06-16 |0:11:10| ('127.0.0.1', 23574) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-16 |0:11:11| ('127.0.0.1', 23574) | Action = login. (hiru,A) | Resultat = match
+2014-06-16 |0:16:6| ('127.0.0.1', 23650) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-16 |0:16:7| ('127.0.0.1', 23650) | Action = login. (hiru,A) | Resultat = match
+2014-06-16 |0:16:29| ('127.0.0.1', 23650) | Action = deconnexion. (hiru)
+2014-06-16 |0:16:40| ('127.0.0.1', 23654) | Action = Black_list_test. '127.0.0.1' | Resultat = authorized
+2014-06-16 |0:16:41| ('127.0.0.1', 23654) | Action = login. (user,U) | Resultat = match

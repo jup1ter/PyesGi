@@ -202,7 +202,7 @@ while serveur_lance:
                 #### fonction Ajouter
                 elif cmd.upper() == "ADD" and BDD_right[0][3] =="A":
                     msgClient0=recept()  # login
-                    msgClient1=recept()   #salt
+                    msgClient1=recept()   # salt
                     msgClient2=recept()   # sha1
                     msgClient3=recept()   # privilege
                     validation=recept()  # Validation

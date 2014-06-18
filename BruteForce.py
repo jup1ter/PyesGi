@@ -20,11 +20,6 @@ def pwd(p):
     return(key)
 
 
-sql = sql.select("*")
-
-
-print(res)
-
 nb = int(input("\nNumber of characters : "))
 file = open("accounts2.txt", "r")
 tps1 = time.clock()

@@ -34,7 +34,5 @@ for line in file:
         i += 1
 
     tps2 = time.strftime('%H:%M:%S', time.clock()-tps1)
-    print("\nKey Found in",round(tps2,2),"seconds : " + keys)
-    print("\n"+ str(i) + " keys generated ( " + str(round(i/tps2,2)) + " hash/s )\n")
-    
+
     
